@@ -1,0 +1,17 @@
+{
+    "name": "vaubanson/ftp",
+    "description": "Connexion a un compte ftp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aziadouvo aime vaubanson",
+            "email": "azia.aime@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vaubanson\\Ftp\\": "src"
+        }
+    },
+    "require": {}
+}
